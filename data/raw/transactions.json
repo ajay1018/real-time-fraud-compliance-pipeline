@@ -1,0 +1,50 @@
+[
+  {
+    "txn_id": 1,
+    "account_id": "A-100",
+    "amount": 950.0,
+    "country": "US",
+    "channel": "web",
+    "ts": "2024-03-01T10:00:00Z"
+  },
+  {
+    "txn_id": 2,
+    "account_id": "A-100",
+    "amount": 1200.0,
+    "country": "US",
+    "channel": "web",
+    "ts": "2024-03-01T10:05:00Z"
+  },
+  {
+    "txn_id": 3,
+    "account_id": "B-200",
+    "amount": 75.0,
+    "country": "FR",
+    "channel": "app",
+    "ts": "2024-03-01T10:06:00Z"
+  },
+  {
+    "txn_id": 4,
+    "account_id": "C-300",
+    "amount": 4000.0,
+    "country": "RU",
+    "channel": "api",
+    "ts": "2024-03-01T10:06:30Z"
+  },
+  {
+    "txn_id": 5,
+    "account_id": "A-100",
+    "amount": 50.0,
+    "country": "US",
+    "channel": "web",
+    "ts": "2024-03-01T10:07:00Z"
+  },
+  {
+    "txn_id": 6,
+    "account_id": "D-400",
+    "amount": 6000.0,
+    "country": "US",
+    "channel": "api",
+    "ts": "2024-03-01T10:08:00Z"
+  }
+]
