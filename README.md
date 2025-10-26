@@ -1,5 +1,7 @@
 # 🕵️ Real-Time Fraud & Compliance Pipeline
 
+![CI](https://github.com/ajay1018/real-time-fraud-compliance-pipeline/actions/workflows/ci.yml/badge.svg?branch=main&cache=1761437041)
+
 Portfolio project showcasing a streaming-style fraud/compliance pipeline: **Ingest → Rule-based flagging → KPIs & dashboard**. Clean DE structure, diagrams, and ready artifacts so it looks complete.
 
 ---
